@@ -17,7 +17,7 @@ const Demos = () => {
       <Head>
         <link rel="stylesheet" href="/assets/css/style.css" />
       </Head>
-      <style jsx>{`
+      <style>{`
         .works-header {
           min-height: 85vh;
           position: relative;
