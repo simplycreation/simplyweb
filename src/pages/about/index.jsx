@@ -15,7 +15,7 @@ const About = () => {
   return (
     <MainLayout>
       <PageHeader
-        title="About Us"
+        title="About CV.Simply Creation"
         fullPath={[
           { id: 1, name: "home", url: "/" },
           { id: 2, name: "about us", url: "/about" },

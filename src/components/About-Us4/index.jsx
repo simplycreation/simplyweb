@@ -11,34 +11,35 @@ const AboutUs4 = () => {
                 <div className="col-sm-6">
                   <div className="item mb-50">
                     <h3>
-                      <span className="nbr custom-font">352</span>
+                      <span className="nbr custom-font">120+</span>
                     </h3>
-                    <h6>Projects Completed</h6>
+                    <h6>Container / Years</h6>
                   </div>
                 </div>
                 <div className="col-sm-6">
                   <div className="item mb-50">
                     <h3>
-                      <span className="nbr custom-font">567</span>
+                      <span className="nbr custom-font">60.000+</span>
                     </h3>
-                    <h6>Satisfied Clients</h6>
+                    <h6>GOODS SHIPMENT / YEARS</h6>
                   </div>
                 </div>
                 <div className="col-sm-6">
                   <div className="item">
                     <h3>
-                      <span className="nbr custom-font">656</span>
+                      <span className="nbr custom-font">2.5</span>
                       <i>M</i>
                     </h3>
-                    <h6>Monthly Revenue</h6>
+                    <h6>Yearly Revenue</h6>
                   </div>
                 </div>
                 <div className="col-sm-6">
                   <div className="item">
                     <h3>
-                      <span className="nbr custom-font">17</span>
+                      <span className="nbr custom-font">4000</span>
+                      <i>SQ M</i>
                     </h3>
-                    <h6>Awards Won</h6>
+                    <h6>WAREHOUSING</h6>
                   </div>
                 </div>
               </div>
@@ -47,17 +48,22 @@ const AboutUs4 = () => {
           <div className="col-lg-6">
             <div className="txt-cont">
               <p className="mb-20">
-                Maecenas imperdiet ante eget hendrerit posuere. Nunc urna
-                libero, congue porta nibh a, semper feugiat sem. Sed auctor dui
-                eleifend, scelerisque eros ut.
+                Simply Creation is Manufacture and Exporter Rattan since 2014
+                from Jl. Nyi Gede Cangkring, Panembahan, Plered, Cirebon,
+                Indonesia. Simply are growing and developing with several
+                clients overseas like the USA, UK, France and more countries.
               </p>
               <p>
-                Curabitur sed iaculis dolor, non congue ligula. Maecenas
-                imperdiet ante eget hendrerit posuere. Nunc urna libero, congue
-                porta nibh a, semper feugiat sem. Sed auctor dui eleifend,
-                scelerisque eros ut, pellentesque nibh. Nam lacinia suscipit
-                accumsan. Donec sodales, neque vitae rutrum convallis, nulla
-                tortor pharetra odio, in varius ante ante sed nisi.
+                Simply expert in Rattan especially 'Manau Skin On' and have a
+                lot of material to produce furniture not only for indoor
+                products but also outdoor products with the finest quality to
+                supply your needs.
+              </p>
+              <p>
+                Backed by our craftsmanship, experience and innovative,
+                exclusive design with natural elements and materials, We proudly
+                offer a wide assortment of furniture in a variety of materials
+                at competitive prices.
               </p>
             </div>
           </div>

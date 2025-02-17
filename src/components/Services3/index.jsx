@@ -41,11 +41,11 @@ const Services3 = ({ bigTitle, grid }) => {
                 <span className={item.icon}></span>
                 <h6 className="mb-20">{item.title}</h6>
                 <p>{item.content}</p>
-                <Link href="/about">
+                {/* <Link href="/about">
                   <a className={`more ${!grid ? "custom-font" : ""} mt-30`}>
                     Read More
                   </a>
-                </Link>
+                </Link> */}
               </div>
             </div>
           ))}

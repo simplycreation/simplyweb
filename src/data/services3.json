@@ -1,23 +1,23 @@
 [
   {
     "id": 1,
-    "image": "/assets/img/01.jpg",
+    "image": "",
     "icon": "icon flaticon-home-1",
-    "title": "Architecture",
-    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+    "title": "Easy Maintenance",
+    "content": "Wipe with a damp cloth, lasts for years."
   },
   {
     "id": 2,
-    "image": "/assets/img/02.jpg",
+    "image": "",
     "icon": "icon flaticon-living-room",
-    "title": "Interior Design",
-    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+    "title": "Aesthetic & Elegant",
+    "content": "Natural look, suitable for various interior styles."
   },
   {
     "id": 3,
-    "image": "/assets/img/03.jpg",
+    "image": "",
     "icon": "icon flaticon-interior-design",
-    "title": "3D Modeling",
+    "title": "Comfortable & Flexible",
     "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
   }
 ]
