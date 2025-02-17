@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "/assets/img/team/1.jpg",
+    "image": "/assets/img/team/logo_client.png",
     "facebook": "#",
     "twitter": "#",
     "behance": "#",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "image": "/assets/img/team/2.jpg",
+    "image": "/assets/img/team/logo_client2.png",
     "facebook": "#",
     "twitter": "#",
     "behance": "#",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "image": "/assets/img/team/3.jpg",
+    "image": "/assets/img/team/logo_client3.jpg",
     "facebook": "#",
     "twitter": "#",
     "behance": "#",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "image": "/assets/img/team/4.jpg",
+    "image": "/assets/img/team/logo_client4.png",
     "facebook": "#",
     "twitter": "#",
     "behance": "#",
@@ -41,12 +41,42 @@
   },
   {
     "id": 5,
-    "image": "/assets/img/team/5.jpg",
+    "image": "/assets/img/team/logo_client5.png",
     "facebook": "#",
     "twitter": "#",
     "behance": "#",
     "linkedin": "#",
     "username": "CASAGRANDE",
     "usertitle": "ITALY"
+  },
+  {
+    "id": 6,
+    "image": "/assets/img/team/logo_client6n.png",
+    "facebook": "#",
+    "twitter": "#",
+    "behance": "#",
+    "linkedin": "#",
+    "username": "LA REDOUTE",
+    "usertitle": "FRANCE"
+  },
+  {
+    "id": 7,
+    "image": "/assets/img/team/logo_client7.png",
+    "facebook": "#",
+    "twitter": "#",
+    "behance": "#",
+    "linkedin": "#",
+    "username": "ANTHROPOLOGIE",
+    "usertitle": "USA"
+  },
+  {
+    "id": 8,
+    "image": "/assets/img/team/5.jpg",
+    "facebook": "#",
+    "twitter": "#",
+    "behance": "#",
+    "linkedin": "#",
+    "username": "TERRAIN",
+    "usertitle": "USA"
   }
 ]

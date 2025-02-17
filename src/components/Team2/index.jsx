@@ -13,7 +13,7 @@ const Team2 = () => {
       </div>
       <div className="container-fluid">
         <div className="row">
-          {Team1Data.slice(0, 4).map((item, index) => (
+          {Team1Data.slice(0, 8).map((item, index) => (
             <div className="col-lg-3" key={item.id}>
               <div className="item">
                 <div
