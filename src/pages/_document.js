@@ -16,11 +16,11 @@ class MyDocument extends Document {
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta
             name="keywords"
-            content="React Nextjs Template Archo onepage themeforest"
+            content="CV Simply Creation, rotan furniture Cirebon, furniture rotan, kursi rotan, meja rotan, sofa rotan, kerajinan rotan Cirebon, dekorasi rotan, desain interior rotan, home decor rotan, perabot rotan, rotan berkualitas, handmade furniture, eco-friendly furniture, mebel rotan Cirebon, outdoor furniture, indoor furniture, custom furniture rotan, pengrajin rotan Cirebon, produk rotan unik, industri rotan Cirebon"
           />
           <meta
             name="description"
-            content="Archo - Onepage Multi-Purpose React nextjs Template"
+            content="Simply Creation is a Cirebon-based company specializing in high-quality rattan furniture. Our designs combine traditional craftsmanship with modern innovation, offering unique and sustainable furniture solutions for your home or business."
           />
           <meta name="author" content="" />
 
