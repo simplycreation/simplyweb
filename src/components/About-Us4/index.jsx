@@ -54,8 +54,8 @@ const AboutUs4 = () => {
                 clients overseas like the USA, UK, France and more countries.
               </p>
               <p>
-                Simply expert in Rattan especially 'Manau Skin On' and have a
-                lot of material to produce furniture not only for indoor
+                Simply expert in Rattan especially Manau Skin On&apos; and have
+                a lot of material to produce furniture not only for indoor
                 products but also outdoor products with the finest quality to
                 supply your needs.
               </p>
