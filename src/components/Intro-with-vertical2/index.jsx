@@ -42,11 +42,11 @@ const IntroWithVertical2 = () => {
                 prevEl: navigationPrevRef.current,
                 nextEl: navigationNextRef.current,
               }}
-              // pagination={{
-              //   type: "fraction",
-              //   clickable: true,
-              //   el: paginationRef.current,
-              // }}
+              pagination={{
+                type: "fraction",
+                clickable: true,
+                el: paginationRef.current,
+              }}
               slidesPerView={1}
               direction="vertical"
               loop={true}
@@ -130,7 +130,7 @@ const IntroWithVertical2 = () => {
               ))}
             </Swiper>
           ) : null}
-          {/* <div className="cta__slider-arrows">
+          <div className="cta__slider-arrows">
             <i
               id="js-cta-slider-next"
               ref={navigationNextRef}
@@ -145,7 +145,7 @@ const IntroWithVertical2 = () => {
             >
               <i className="fas fa-chevron-down"></i>
             </i>
-          </div> */}
+          </div>
         </div>
         <div
           ref={paginationRef}

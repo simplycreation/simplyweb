@@ -17,21 +17,25 @@ const Footer = ({ classText }) => {
                   <span className="icon pe-7s-map-marker"></span>
                   <div className="cont">
                     <h6>Officeal Address</h6>
-                    <p>504 White St . Dawsonville, GA 30534 , New York</p>
+                    <p>
+                      Jl. Nyi Gede Cangkring No.12, Panembahan, Kec. Plered,
+                      Kabupaten Cirebon, Jawa Barat 45154
+                    </p>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-mail"></span>
                   <div className="cont">
                     <h6>Email Us</h6>
-                    <p>support@gmail.com</p>
+                    <p>contact@simplycreation.id</p>
+                    <p>sales@simplycreation.id</p>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-call"></span>
                   <div className="cont">
                     <h6>Call Us</h6>
-                    <p>+87986451666</p>
+                    <p>+62 231 882 51 50</p>
                   </div>
                 </li>
               </ul>
@@ -39,12 +43,10 @@ const Footer = ({ classText }) => {
           </div>
           <div className="col-lg-4">
             <div className="item md-mb50">
-              <div className="title">
-                <h5>Recent News</h5>
-              </div>
+              <div className="title">{/* <h5>Recent News</h5> */}</div>
               <ul>
                 <li>
-                  <div className="img">
+                  {/* <div className="img">
                     <Link href="/blog-details">
                       <a>
                         <img src="/assets/img/blog/1.jpg" alt="" />
@@ -62,9 +64,9 @@ const Footer = ({ classText }) => {
                       </a>
                     </Link>
                     <span className="date">14 Jan 2022</span>
-                  </div>
+                  </div> */}
                 </li>
-                <li>
+                {/* <li>
                   <div className="img">
                     <Link href="/blog-details">
                       <a>
@@ -83,13 +85,13 @@ const Footer = ({ classText }) => {
                     </Link>
                     <span className="date">14 Jan 2022</span>
                   </div>
-                </li>
-                <li>
+                </li> */}
+                {/* <li>
                   <div className="subscribe">
                     <input type="text" placeholder="Type Your Email" />
                     <span className="subs pe-7s-paper-plane"></span>
                   </div>
-                </li>
+                </li> */}
               </ul>
             </div>
           </div>
@@ -121,10 +123,7 @@ const Footer = ({ classText }) => {
                 </Link>
               </div>
               <div className="copy-right">
-                <p>
-                  © 2022, Arch Template. Made with passion by
-                  <Link href="#">ThemesCamp</Link>.
-                </p>
+                <p>© {new Date().getFullYear()}, CV. Simply Creation.</p>
               </div>
             </div>
           </div>

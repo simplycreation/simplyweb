@@ -1,18 +1,36 @@
 import React from "react";
-import appData from '../../data/app.json'
+import appData from "../../data/app.json";
 
 const ContactWithMap = () => {
   return (
     <div className="container-fluid">
       <div className="row">
-        <div className="col-lg-6 map-box">
-          <iframe src={appData.mapIframe}></iframe>
+        <div
+          className=""
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+            width: "100%",
+          }}
+        >
+          <iframe
+            src={appData.mapIframe}
+            loading="lazy"
+            referrerPolicy="no-referrer-when-downgrade"
+            style={{
+              width: "100%",
+              maxWidth: "1000px",
+              height: "550px",
+              border: "none",
+            }}
+          ></iframe>
         </div>
         <div className="col-lg-6 form">
           <form id="contact-form" method="post">
             <div className="messages"></div>
 
-            <div className="controls">
+            {/* <div className="controls">
               <div className="form-group">
                 <input
                   id="form_name"
@@ -46,7 +64,7 @@ const ContactWithMap = () => {
               <button type="submit" className="btn-curve btn-color">
                 <span>Send Message</span>
               </button>
-            </div>
+            </div> */}
           </form>
         </div>
       </div>

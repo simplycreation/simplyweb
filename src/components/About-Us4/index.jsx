@@ -36,7 +36,7 @@ const AboutUs4 = () => {
                 <div className="col-sm-6">
                   <div className="item">
                     <h3>
-                      <span className="nbr custom-font">4000</span>
+                      <span className="nbr custom-font">6000</span>
                       <i>SQ M</i>
                     </h3>
                     <h6>WAREHOUSING</h6>

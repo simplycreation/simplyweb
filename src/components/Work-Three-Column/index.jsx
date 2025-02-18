@@ -18,9 +18,14 @@ const WorkThreeColumn = () => {
               <span data-filter="*" className="active">
                 All
               </span>
-              <span data-filter=".interior">Interior</span>
-              <span data-filter=".theaters">Theaters</span>
-              <span data-filter=".residential">Residential</span>
+              <span data-filter=".interior">Living Room Collection</span>
+              <span data-filter=".theaters">Dining Room Collection</span>
+              <span data-filter=".bed">Bed Room Collection</span>
+              <span data-filter=".bath">Bath Room Collection</span>
+              <span data-filter=".accesroies">Accesories</span>
+              <span data-filter=".outdoor">Outdoor Collection</span>
+              <span data-filter=".others">Others</span>
+              <span data-filter=".others">Gdrive</span>
             </div>
           </div>
           <div className="row gallery">
