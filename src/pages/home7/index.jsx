@@ -8,6 +8,8 @@ import Services7 from "../../components/Services7";
 import Testimonials1 from "../../components/Testimonials1";
 import WorkWithoutFilter from "../../components/Work-Without-Filter";
 import IntroWithVertical2 from "../../components/Intro-with-vertical2";
+import IntroWithHorizontal from "../../components/Intro-with-horizontal";
+import LightLayout from "../../layouts/light";
 
 const Home7 = () => {
   React.useEffect(() => {
@@ -15,7 +17,7 @@ const Home7 = () => {
   });
   return (
     <MainLayout>
-      <IntroWithVertical2 />
+      <IntroWithHorizontal />
       <AboutUs8 />
       <Services7 />
       <WorkWithoutFilter />

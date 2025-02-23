@@ -9,23 +9,25 @@ const MainLayout = ({ children, logoClassText }) => {
   const logoRef = React.useRef(null);
 
   React.useEffect(() => {
-    var navbar = navbarRef.current,
-      logo = logoRef.current;
-    if (window.pageYOffset > 300) {
-      navbar.classList.add("nav-scroll");
-    } else {
-      navbar.classList.remove("nav-scroll");
-    }
-    window.addEventListener("scroll", () => {
+    const navbar = navbarRef.current;
+    const logo = logoRef.current;
+
+    const handleScroll = () => {
       if (window.pageYOffset > 300) {
         navbar.classList.add("nav-scroll");
-        logo.setAttribute("src", "/assets/img/logo-light.png");
+        logo.setAttribute("src", "/assets/img/logo-dark.png"); // Logo berwarna
       } else {
         navbar.classList.remove("nav-scroll");
-        logo.setAttribute("src", "/assets/img/logo-light.png");
+        logo.setAttribute("src", "/assets/img/logo-light.png"); // Logo hitam putih
       }
-    });
+    };
+
+    handleScroll(); // Pastikan logo benar saat pertama kali render
+    window.addEventListener("scroll", handleScroll);
+
+    return () => window.removeEventListener("scroll", handleScroll);
   }, [navbarRef]);
+
   return (
     <>
       <Head>

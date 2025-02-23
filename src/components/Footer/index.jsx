@@ -97,9 +97,17 @@ const Footer = ({ classText }) => {
           </div>
           <div className="col-lg-4">
             <div className="item">
-              <div className="logo">
-                <img src="/assets/img/logo-light.png" alt="" />
+              <div className="flex flex-col items-center justify-center py-10">
+                <div className="logo mb-4">
+                  <img
+                    src="/assets/img/logo-light.png"
+                    alt="Simply Creation Logo"
+                    style={{ width: "250px" }}
+                    className=""
+                  />
+                </div>
               </div>
+
               <div className="social">
                 <Link href="#">
                   <a>
