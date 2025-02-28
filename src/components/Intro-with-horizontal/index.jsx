@@ -35,7 +35,7 @@ const IntroWithHorizontal = () => {
             speed={1000}
             parallax={true}
             autoplay={{
-              delay: 3000, // Durasi delay dalam milidetik (3 detik)
+              delay: 5000, // Durasi delay dalam milidetik (3 detik)
               disableOnInteraction: false, // Tetap autoplay meskipun user berinteraksi
             }}
             navigation={{
