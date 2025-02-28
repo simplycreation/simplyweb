@@ -3,14 +3,14 @@ import introData from "../../data/Intro-with-horizontal.json";
 import { Swiper, SwiperSlide } from "swiper/react";
 import Split from "../Split";
 import Link from "next/link";
-import SwiperCore, { Navigation, Pagination, Parallax } from "swiper";
+import SwiperCore, { Navigation, Pagination, Parallax, Autoplay } from "swiper";
 
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
 import removeSlashFromPagination from "../../common/removeSlashFromPagination";
 
-SwiperCore.use([Navigation, Pagination, Parallax]);
+SwiperCore.use([Navigation, Pagination, Parallax, Autoplay]); // Tambahkan Autoplay di sini
 
 const IntroWithHorizontal = () => {
   const [load, setLoad] = React.useState(true);
@@ -34,6 +34,10 @@ const IntroWithHorizontal = () => {
           <Swiper
             speed={1000}
             parallax={true}
+            autoplay={{
+              delay: 3000, // Durasi delay dalam milidetik (3 detik)
+              disableOnInteraction: false, // Tetap autoplay meskipun user berinteraksi
+            }}
             navigation={{
               prevEl: navigationPrevRef.current,
               nextEl: navigationNextRef.current,
