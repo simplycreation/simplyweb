@@ -20,7 +20,7 @@ class MyDocument extends Document {
           />
           <meta
             name="description"
-            content="Simply Creation is a Cirebon-based company specializing in high-quality rattan furniture. Our designs combine traditional craftsmanship with modern innovation, offering unique and sustainable furniture solutions for your home or business."
+            content="CV Simply Creation is a Cirebon-based company specializing in high-quality rattan furniture. Our designs combine traditional craftsmanship with modern innovation, offering unique and sustainable furniture solutions for your home or business."
           />
           <meta name="author" content="" />
 
