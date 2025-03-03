@@ -22,13 +22,13 @@ const WorkWithoutFilter = ({ vis }) => {
             <div className="col-md-6 items">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/2.jpg" alt="" />
+                  <img src="/assets/img/works/col/dining.png" alt="" />
                 </div>
                 <div className={`cont ${vis ? "vis" : ""}`}>
                   <span>Architecture</span>
                   <span>Modern</span>
                   <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
+                    <Link href="/work2">Dinning</Link>
                   </h5>
                 </div>
               </div>
@@ -36,13 +36,13 @@ const WorkWithoutFilter = ({ vis }) => {
             <div className="col-md-6 items">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/1.jpg" alt="" />
+                  <img src="/assets/img/works/col/sofa.png" alt="" />
                 </div>
                 <div className={`cont ${vis ? "vis" : ""}`}>
                   <span>Architecture</span>
                   <span>Modern</span>
                   <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
+                    <Link href="/work2">Sofa</Link>
                   </h5>
                 </div>
               </div>
@@ -50,13 +50,13 @@ const WorkWithoutFilter = ({ vis }) => {
             <div className="col-md-6 items">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/5.jpg" alt="" />
+                  <img src="/assets/img/works/col/stool.png" alt="" />
                 </div>
                 <div className={`cont ${vis ? "vis" : ""}`}>
                   <span>Architecture</span>
                   <span>Modern</span>
                   <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
+                    <Link href="/work2">Stool</Link>
                   </h5>
                 </div>
               </div>
@@ -64,13 +64,13 @@ const WorkWithoutFilter = ({ vis }) => {
             <div className="col-md-6 items">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/3.jpg" alt="" />
+                  <img src="/assets/img/works/col/occasional.png" alt="" />
                 </div>
                 <div className={`cont ${vis ? "vis" : ""}`}>
                   <span>Architecture</span>
                   <span>Modern</span>
                   <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
+                    <Link href="/work2">Occasional</Link>
                   </h5>
                 </div>
               </div>

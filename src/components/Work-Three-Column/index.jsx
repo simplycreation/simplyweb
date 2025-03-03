@@ -64,19 +64,19 @@ const WorkThreeColumn = () => {
                 </div>
               </div>
             </div>
-            {/* <div className="col-lg-4 col-md-6 items residential">
+            <div className="col-lg-4 col-md-6 items occasional">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/3.jpg" alt="" />
+                  <img src="/assets/img/works/col/occasional.png" alt="" />
                 </div>
                 <div className="cont">
-                  <h5>Modern Townhouse</h5>
+                  <h5>Occasional</h5>
                   <span>Architecture</span>
                   <span>Modern</span>
                 </div>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 items theaters">
+            {/*<div className="col-lg-4 col-md-6 items theaters">
               <div className="item">
                 <div className="img">
                   <img src="/assets/img/works/col/4.jpg" alt="" />
