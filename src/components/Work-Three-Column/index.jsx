@@ -28,43 +28,43 @@ const WorkThreeColumn = () => {
             </div>
           </div>
           <div className="row gallery">
-            <div className="col-lg-4 col-md-6 items theaters">
+            <div className="col-lg-4 col-md-6 items dinning">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/2.jpg" alt="" />
+                  <img src="/assets/img/works/col/dining.png" alt="" />
                 </div>
                 <div className="cont">
-                  <h5>Modern Townhouse</h5>
+                  <h5>Dinning</h5>
                   <span>Architecture</span>
                   <span>Modern</span>
                 </div>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 items residential interior">
+            <div className="col-lg-4 col-md-6 items sofa">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/1.jpg" alt="" />
+                  <img src="/assets/img/works/col/sofa.png" alt="" />
                 </div>
                 <div className="cont">
-                  <h5>Modern Townhouse</h5>
+                  <h5>Sofa</h5>
                   <span>Architecture</span>
                   <span>Modern</span>
                 </div>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 items interior">
+            <div className="col-lg-4 col-md-6 items stool">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/5.jpg" alt="" />
+                  <img src="/assets/img/works/col/stool.png" alt="" />
                 </div>
                 <div className="cont">
-                  <h5>Modern Townhouse</h5>
+                  <h5>Stool</h5>
                   <span>Architecture</span>
                   <span>Modern</span>
                 </div>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 items residential">
+            {/* <div className="col-lg-4 col-md-6 items residential">
               <div className="item">
                 <div className="img">
                   <img src="/assets/img/works/col/3.jpg" alt="" />
@@ -135,7 +135,7 @@ const WorkThreeColumn = () => {
                   <span>Modern</span>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
