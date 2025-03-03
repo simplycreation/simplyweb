@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
 
- const AboutUs8 = () => {
+const AboutUs8 = () => {
   return (
     <section className="about section-padding">
       <div className="container">
