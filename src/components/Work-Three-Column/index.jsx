@@ -21,7 +21,7 @@ const WorkThreeColumn = () => {
               <span data-filter=".sofa">Sofa</span>
               <span data-filter=".dinning">Dinning</span>
               <span data-filter=".occasional">Occasional</span>
-              <span data-filter=".barstool">BarStool</span>
+              <span data-filter=".stool">Stool</span>
               <span data-filter=".accesroies">Accesories</span>
               <span data-filter=".others">Others</span>
               <span data-filter=".gdrive">Gdrive</span>
