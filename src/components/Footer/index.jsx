@@ -16,7 +16,7 @@ const Footer = ({ classText }) => {
                 <li>
                   <span className="icon pe-7s-map-marker"></span>
                   <div className="cont">
-                    <h6>Officeal Address</h6>
+                    <h6>Official Address</h6>
                     <p>
                       Jl. Nyi Gede Cangkring No.12, Panembahan, Kec. Plered,
                       Kabupaten Cirebon, Jawa Barat 45154
