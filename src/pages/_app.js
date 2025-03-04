@@ -36,7 +36,7 @@ function MyApp({ Component, pageProps }) {
           property="og:description"
           content="High-quality rattan furniture combining craftsmanship with modern design."
         />
-        <meta property="og:image" content="/assets/img/ojan.png" />
+        <meta property="og:image" content="/assets/img/favicon.ico" />
         <meta property="og:url" content="https://simplycreation.id" />
         <meta property="og:type" content="website" />
 
@@ -50,7 +50,7 @@ function MyApp({ Component, pageProps }) {
           name="twitter:description"
           content="High-quality rattan furniture combining craftsmanship with modern design."
         />
-        <meta name="twitter:image" content="/assets/img/ojan.png" />
+        <meta name="twitter:image" content="/assets/img/favicon.ico" />
       </Head>
 
       <Cursor />
