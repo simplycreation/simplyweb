@@ -52,10 +52,20 @@ const WorkThreeColumn = () => {
             <div className="col-lg-4 col-md-6 items dinning">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/dining.png" alt="" />
+                  <img src="/assets/img/works/col/dinning1.jpg" alt="" />
                 </div>
                 <div className="cont">
-                  <h5>Dinning</h5> <span>Architecture</span> <span>Modern</span>
+                  <h5>Alexa Chair</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning2.jpg" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Reno Chair</h5> <span>Rattan</span> <span>Modern</span>
                 </div>
               </div>
             </div>
@@ -65,27 +75,39 @@ const WorkThreeColumn = () => {
                   <img src="/assets/img/works/col/sofa.png" alt="" />
                 </div>
                 <div className="cont">
-                  <h5>Sofa</h5> <span>Architecture</span> <span>Modern</span>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-4 col-md-6 items stool">
-              <div className="item">
-                <div className="img">
-                  <img src="/assets/img/works/col/stool.png" alt="" />
-                </div>
-                <div className="cont">
-                  <h5>Stool</h5> <span>Architecture</span> <span>Modern</span>
+                  <h5>Sofa</h5> <span>Rattan</span> <span>Modern</span>
                 </div>
               </div>
             </div>
             <div className="col-lg-4 col-md-6 items occasional">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/occasional.png" alt="" />
+                  <img src="/assets/img/works/col/occ1.jpg" alt="" />
                 </div>
                 <div className="cont">
-                  <h5>Occasional</h5> <span>Architecture</span>
+                  <h5>Shansi Chair A</h5> <span>Rattan</span>
+                  <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items occasional">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/occ2.jpg" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Shansi Chair B</h5> <span>Rattan</span>
+                  <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items occasional">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/occ3.jpg" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Miguel Chair</h5> <span>Rattan</span>
                   <span>Modern</span>
                 </div>
               </div>
@@ -96,7 +118,8 @@ const WorkThreeColumn = () => {
                   <img src="/assets/img/works/col/others1.jpg" alt="" />
                 </div>
                 <div className="cont">
-                  <h5>Side Board</h5> <span></span> <span></span>
+                  <h5>Side Board</h5> <span>Rattan</span>
+                  <span>Modern</span>
                 </div>
               </div>
             </div>
@@ -106,7 +129,8 @@ const WorkThreeColumn = () => {
                   <img src="/assets/img/works/col/others2.jpg" alt="" />
                 </div>
                 <div className="cont">
-                  <h5>Vanity Table</h5> <span></span> <span></span>
+                  <h5>Vanity Table</h5> <span>Rattan</span>
+                  <span>Modern</span>
                 </div>
               </div>
             </div>
@@ -116,7 +140,8 @@ const WorkThreeColumn = () => {
                   <img src="/assets/img/works/col/others3.jpg" alt="" />
                 </div>
                 <div className="cont">
-                  <h5>Vintage Shelf</h5> <span></span> <span></span>
+                  <h5>Vintage Shelf</h5> <span>Rattan</span>
+                  <span>Modern</span>
                 </div>
               </div>
             </div>
@@ -126,17 +151,28 @@ const WorkThreeColumn = () => {
                   <img src="/assets/img/works/col/others4.jpg" alt="" />
                 </div>
                 <div className="cont">
-                  <h5>Reno Shelf</h5> <span></span> <span></span>
+                  <h5>Reno Shelf</h5> <span>Rattan</span> <span>Modern</span>
                 </div>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 items sofa">
+            <div className="col-lg-4 col-md-6 items stool">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/3.jpg" alt="" />
+                  <img src="/assets/img/works/col/stool1.jpg" alt="" />
                 </div>
                 <div className="cont">
-                  <h5>Modern Townhouse</h5> <span>Architecture</span>
+                  <h5>Alexa Counter Stool</h5> <span>Rattan</span>
+                  <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items stool">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/stool2.jpg" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Luna Bar Stool</h5> <span>Rattan</span>
                   <span>Modern</span>
                 </div>
               </div>
