@@ -13,11 +13,11 @@ const Work2 = () => {
       <WorkHeader
         center
         title={{
-          first: "Architecture is a visual art,",
-          second: "and the building speak for themeselves",
+          first: "Simply Creation Rattan Furniture",
+          second: "Timeless Elegance, Natural Comfort",
         }}
         // title = "text",
-        content="Architecture bibendum pharetra eleifend. Suspendisse vel volutpat purus, sit amet bibendum nisl. Cras mollis turpis a ipsum ultes, nec condimentum ipsum consequat. Mauris vitae consequat nibh, vitae interdum mi."
+        content="Discover the beauty of handcrafted rattan furniture, where tradition meets modern design. Made from high-quality, sustainable materials, our rattan pieces bring warmth, durability, and a touch of nature to your living spaces. Whether it's for indoor or outdoor use, our collection combines comfort with aesthetic appeal, creating a harmonious blend of style and functionality."
       />
       <WorkThreeColumn />
     </MainLayout>
