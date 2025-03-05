@@ -200,7 +200,7 @@ const WorkThreeColumn = () => {
                   </div>
                   <div className="cont">
                     <h5>{photo.title}</h5>
-                    <span>Architecture</span> <span>Modern</span>
+                    <span>Rattan</span> <span>Modern</span>
                   </div>
                 </div>
               </div>
