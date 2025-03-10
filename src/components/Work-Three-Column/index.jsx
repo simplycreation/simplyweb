@@ -52,40 +52,340 @@ const WorkThreeColumn = () => {
             <div className="col-lg-4 col-md-6 items dinning">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/dinning1.jpg" alt="" />
+                  <img src="/assets/img/works/col/dinning1.png" alt="" />
                 </div>
                 <div className="cont">
-                  <h5>Alexa Chair</h5> <span>Rattan</span> <span>Modern</span>
+                  <h5>Becca</h5> <span>Rattan</span> <span>Modern</span>
                 </div>
               </div>
             </div>
             <div className="col-lg-4 col-md-6 items dinning">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/dinning2.jpg" alt="" />
+                  <img src="/assets/img/works/col/dinning2.png" alt="" />
                 </div>
                 <div className="cont">
-                  <h5>Reno Chair</h5> <span>Rattan</span> <span>Modern</span>
+                  <h5>Boas</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning3.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Calamus</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning4.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Gardenia</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning5.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Gladys</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning6.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Kamila</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning7.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Lefco</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning8.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Merry</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning9.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Mila</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning10.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Plaid</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning11.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Regina</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning12.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Rosini</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning13.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Rotinki</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning14.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Row</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning15.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Rubis</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning16.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Sigma</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning17.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Slimit Grey</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning18.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Slimit Loreng</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning19.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Swastika Chair</h5> <span>Rattan</span>{" "}
+                  <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning20.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Syoda</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning21.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Syola</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning22.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Vale Manau</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning23.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Vale Rustik</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning24.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Vintage Rattan</h5> <span>Rattan</span>{" "}
+                  <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning25.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Zibo Slimit</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items dinning">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/dinning26.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Zibo Synthetic</h5> <span>Rattan</span>{" "}
+                  <span>Modern</span>
                 </div>
               </div>
             </div>
             <div className="col-lg-4 col-md-6 items sofa">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/sofa.png" alt="" />
+                  <img src="/assets/img/works/col/sofa1.png" alt="Elena Sofa" />
                 </div>
                 <div className="cont">
-                  <h5>Sofa</h5> <span>Rattan</span> <span>Modern</span>
+                  <h5>Elena Sofa</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items sofa">
+              <div className="item">
+                <div className="img">
+                  <img
+                    src="/assets/img/works/col/sofa2.png"
+                    alt="Orchardz Sofa"
+                  />
+                </div>
+                <div className="cont">
+                  <h5>Orchardz Sofa</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items sofa">
+              <div className="item">
+                <div className="img">
+                  <img
+                    src="/assets/img/works/col/sofa3.png"
+                    alt="Sans Lounge Chair"
+                  />
+                </div>
+                <div className="cont">
+                  <h5>Sans Lounge Chair</h5> <span>Rattan</span>{" "}
+                  <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items sofa">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/sofa4.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Vintage Shelf</h5> <span>Rattan</span> <span>Modern</span>
                 </div>
               </div>
             </div>
             <div className="col-lg-4 col-md-6 items occasional">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/occ1.jpg" alt="" />
+                  <img src="/assets/img/works/col/occ1.png" alt="" />
                 </div>
                 <div className="cont">
-                  <h5>Shansi Chair A</h5> <span>Rattan</span>
+                  <h5>Ellie</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items occasional">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/occ2.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Miguel</h5> <span>Rattan</span> <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items occasional">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/occ3.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Shansi Plintir</h5> <span>Rattan</span>{" "}
                   <span>Modern</span>
                 </div>
               </div>
@@ -93,22 +393,20 @@ const WorkThreeColumn = () => {
             <div className="col-lg-4 col-md-6 items occasional">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/occ2.jpg" alt="" />
+                  <img src="/assets/img/works/col/occ4.png" alt="" />
                 </div>
                 <div className="cont">
-                  <h5>Shansi Chair B</h5> <span>Rattan</span>
-                  <span>Modern</span>
+                  <h5>Shansi</h5> <span>Rattan</span> <span>Modern</span>
                 </div>
               </div>
             </div>
             <div className="col-lg-4 col-md-6 items occasional">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/occ3.jpg" alt="" />
+                  <img src="/assets/img/works/col/occ5.png" alt="" />
                 </div>
                 <div className="cont">
-                  <h5>Miguel Chair</h5> <span>Rattan</span>
-                  <span>Modern</span>
+                  <h5>Vale</h5> <span>Rattan</span> <span>Modern</span>
                 </div>
               </div>
             </div>
@@ -158,7 +456,7 @@ const WorkThreeColumn = () => {
             <div className="col-lg-4 col-md-6 items stool">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/stool1.jpg" alt="" />
+                  <img src="/assets/img/works/col/stool1.png" alt="" />
                 </div>
                 <div className="cont">
                   <h5>Alexa Counter Stool</h5> <span>Rattan</span>
@@ -169,10 +467,21 @@ const WorkThreeColumn = () => {
             <div className="col-lg-4 col-md-6 items stool">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/stool2.jpg" alt="" />
+                  <img src="/assets/img/works/col/stool2.png" alt="" />
                 </div>
                 <div className="cont">
                   <h5>Luna Bar Stool</h5> <span>Rattan</span>
+                  <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items stool">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/stool3.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Slimit Grey Stool</h5> <span>Rattan</span>
                   <span>Modern</span>
                 </div>
               </div>
