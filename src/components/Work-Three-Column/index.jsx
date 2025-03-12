@@ -349,16 +349,6 @@ const WorkThreeColumn = () => {
                 </div>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 items sofa">
-              <div className="item">
-                <div className="img">
-                  <img src="/assets/img/works/col/sofa4.png" alt="" />
-                </div>
-                <div className="cont">
-                  <h5>Vintage Shelf</h5> <span>Rattan</span> <span>Modern</span>
-                </div>
-              </div>
-            </div>
             <div className="col-lg-4 col-md-6 items occasional">
               <div className="item">
                 <div className="img">
@@ -424,7 +414,7 @@ const WorkThreeColumn = () => {
             <div className="col-lg-4 col-md-6 items others">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/others2.jpg" alt="" />
+                  <img src="/assets/img/works/col/others2.png" alt="" />
                 </div>
                 <div className="cont">
                   <h5>Vanity Table</h5> <span>Rattan</span>
@@ -435,7 +425,7 @@ const WorkThreeColumn = () => {
             <div className="col-lg-4 col-md-6 items others">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/others3.jpg" alt="" />
+                  <img src="/assets/img/works/col/others3.png" alt="" />
                 </div>
                 <div className="cont">
                   <h5>Vintage Shelf</h5> <span>Rattan</span>
@@ -446,10 +436,10 @@ const WorkThreeColumn = () => {
             <div className="col-lg-4 col-md-6 items others">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/others4.jpg" alt="" />
+                  <img src="/assets/img/works/col/others4.png" alt="" />
                 </div>
                 <div className="cont">
-                  <h5>Reno Shelf</h5> <span>Rattan</span> <span>Modern</span>
+                  <h5>Elena Bench</h5> <span>Rattan</span> <span>Modern</span>
                 </div>
               </div>
             </div>
