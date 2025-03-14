@@ -37,9 +37,9 @@ const Home7 = () => {
       <Services7 />
       <WorkWithoutFilter />
       <Video2 />
-      <Team3 />
+      {/* <Team3 /> */}
       <Testimonials1 bigTitle />
-      <Blogs3 smallTitle />
+      {/* <Blogs3 smallTitle /> */}
     </MainLayout>
   );
 };
