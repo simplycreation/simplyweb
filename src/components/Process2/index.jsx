@@ -11,8 +11,10 @@ const Process2 = () => {
               <h4 className="text-2xl font-semibold mb-2">01</h4>
               <h5 className="text-lg font-medium mb-2">Product Lead Time</h5>
               <ul className="list-disc list-inside">
-                <li>Initial order: 90 to 120 days</li>
-                <li>Repeat order: 45 to 60 days</li>
+                <p>
+                  <li>Initial order: 90 to 120 days</li>
+                  <li>Repeat order: 45 to 60 days</li>
+                </p>
               </ul>
             </div>
           </div>
@@ -23,8 +25,10 @@ const Process2 = () => {
               <h4 className="text-2xl font-semibold mb-2">02</h4>
               <h5 className="text-lg font-medium mb-2">Incoterm</h5>
               <ul className="list-disc list-inside">
-                <li>FOB Jakarta</li>
-                <li>FOB Semarang</li>
+                <p>
+                  <li>FOB Jakarta</li>
+                  <li>FOB Semarang</li>
+                </p>
               </ul>
             </div>
           </div>
@@ -56,9 +60,11 @@ const Process2 = () => {
               <h4 className="text-2xl font-semibold mb-2">05</h4>
               <h5 className="text-lg font-medium mb-2">Payment Terms</h5>
               <ul className="list-disc list-inside">
-                <li>30 / 70</li>
-                <li>L/C</li>
-                <li>Negotiable</li>
+                <p>
+                  <li>30 / 70</li>
+                  <li>L/C</li>
+                  <li>Negotiable</li>
+                </p>
               </ul>
             </div>
           </div>
