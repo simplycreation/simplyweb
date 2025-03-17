@@ -45,7 +45,14 @@ const WorkThreeColumn = () => {
               <span data-filter=".stool">Stool</span>
               <span data-filter=".accesroies">Accesories</span>
               <span data-filter=".others">Others</span>
-              <span data-filter=".gdrive">Gdrive</span>
+              <a
+                href="https://docs.google.com/forms/d/e/1FAIpQLSftp8nuNsLz5V3-utt7xYlq7bKDM7DILlmQtxcNZlQgi63XHw/viewform?usp=header"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="cursor-pointer text-blue-600 hover:underline"
+              >
+                More Catalog
+              </a>
             </div>
           </div>
           <div className="row gallery">
