@@ -121,9 +121,9 @@ const Footer = ({ classText }) => {
                 </Link> */}
                 <Link
                   href="https://www.instagram.com/simplycreation.id/"
-                  target="_blank"
+                  passHref
                 >
-                  <a>
+                  <a target="_blank">
                     <i className="fab fa-instagram"></i>
                   </a>
                 </Link>
