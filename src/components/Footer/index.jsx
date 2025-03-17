@@ -109,7 +109,7 @@ const Footer = ({ classText }) => {
               </div>
 
               <div className="social">
-                <Link href="#">
+                {/* <Link href="#">
                   <a>
                     <i className="fab fa-facebook-f"></i>
                   </a>
@@ -118,17 +118,20 @@ const Footer = ({ classText }) => {
                   <a>
                     <i className="fab fa-twitter"></i>
                   </a>
-                </Link>
-                <Link href="#">
+                </Link> */}
+                <Link
+                  href="https://www.instagram.com/simplycreation.id/"
+                  target="_blank"
+                >
                   <a>
                     <i className="fab fa-instagram"></i>
                   </a>
                 </Link>
-                <Link href="#">
+                {/* <Link href="#">
                   <a>
                     <i className="fab fa-youtube"></i>
                   </a>
-                </Link>
+                </Link> */}
               </div>
               <div className="copy-right">
                 <p>© {new Date().getFullYear()}, CV. Simply Creation.</p>
