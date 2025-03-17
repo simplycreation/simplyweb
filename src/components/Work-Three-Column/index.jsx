@@ -390,7 +390,7 @@ const WorkThreeColumn = () => {
                 </div>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 items occasional">
+            {/* <div className="col-lg-4 col-md-6 items occasional">
               <div className="item">
                 <div className="img">
                   <img src="/assets/img/works/col/occ5.png" alt="" />
@@ -399,7 +399,7 @@ const WorkThreeColumn = () => {
                   <h5>Vale</h5> <span>Rattan</span> <span>Modern</span>
                 </div>
               </div>
-            </div>
+            </div> */}
             <div className="col-lg-4 col-md-6 items others">
               <div className="item">
                 <div className="img">
