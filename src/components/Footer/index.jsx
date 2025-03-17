@@ -108,7 +108,7 @@ const Footer = ({ classText }) => {
                 </div>
               </div>
 
-              <div className="social">
+              <div className="">
                 {/* <Link href="#">
                   <a>
                     <i className="fab fa-facebook-f"></i>
@@ -124,7 +124,10 @@ const Footer = ({ classText }) => {
                   passHref
                 >
                   <a target="_blank">
-                    <i className="fab fa-instagram"></i>
+                    <i
+                      className="fab fa-instagram fa-3x"
+                      style={{ color: "#E4405F" }}
+                    ></i>
                   </a>
                 </Link>
                 {/* <Link href="#">
