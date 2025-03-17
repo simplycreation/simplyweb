@@ -15,7 +15,7 @@ self["webpackHotUpdate_N_E"]("pages/index",{
   \*********************************************/
 /***/ (function(module) {
 
-module.exports = JSON.parse('[{"id":1,"title":{"first":"Simply Creation Crafting Excellent In Future","second":"Innovative Rattan Design"},"content":{"first":"","second":""},"image":"/assets/img/slid/n/11.jpg"},{"id":2,"title":{"first":"Simply Creation Crafting Excellent In Future","second":"Classic and Modern"},"content":{"first":"","second":""},"image":"/assets/img/slid/n/12.jpg"},{"id":3,"title":{"first":"Simply Creation Crafting Excellent In Future","second":"Elegant & Unique Design"},"content":{"first":"","second":""},"image":"/assets/img/slid/n/13.jpg"},{"id":4,"title":{"first":"Simply Creation Crafting Excellent In Future","second":"Comfortable and Timeless Design"},"content":{"first":"","second":""},"image":"/assets/img/slid/n/14.jpg"}]');
+module.exports = JSON.parse('[{"id":1,"title":{"first":"Simply Creation Crafting Excellent In Furniture","second":"Innovative Design"},"content":{"first":"A style Of Unique, Modern,","second":"Innovative, And Timeless Design"},"image":"/assets/img/slid/n/11.jpg"},{"id":2,"title":{"first":"Simply Creation Crafting Excellent In Future","second":"Classic and Modern"},"content":{"first":"","second":""},"image":"/assets/img/slid/n/12.jpg"},{"id":3,"title":{"first":"Simply Creation Crafting Excellent In Future","second":"Elegant & Unique Design"},"content":{"first":"","second":""},"image":"/assets/img/slid/n/13.jpg"},{"id":4,"title":{"first":"Simply Creation Crafting Excellent In Future","second":"Comfortable and Timeless Design"},"content":{"first":"","second":""},"image":"/assets/img/slid/n/14.jpg"}]');
 
 /***/ })
 

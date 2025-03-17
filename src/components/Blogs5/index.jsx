@@ -7,41 +7,22 @@ const Blogs5 = () => {
     <section className="blog section-padding">
       <div className="container">
         <div className="section-head">
-          <h3>News</h3>
+          <h3>Our Certificate</h3>
         </div>
         <div className="row">
           <div className="col-lg-6">
             <div className="item md-mb50 wow fadeInUp" data-wow-delay=".3s">
               <div className="img">
-                <img src="/assets/img/blog/03.jpg" alt="" />
+                <img src="/assets/img/certif2.jpeg" alt="" />
               </div>
               <div className="cont">
                 <div>
                   <div className="info">
-                    <Link href="/blog-details">
-                      <a className="date">
-                        <span>
-                          <i>06</i> August
-                        </span>
-                      </a>
-                    </Link>
-                    <span>/</span>
-                    <Link href="/blog-details">
-                      <a className="tag">
-                        <span>WordPress</span>
-                      </a>
-                    </Link>
+                    <a className="tag">
+                      <span>Certified</span>
+                    </a>
                   </div>
-                  <h5>
-                    <Link href="/blog-details">
-                      How to use solid color combine with simple furnitures.
-                    </Link>
-                  </h5>
-                  <div className="btn-more">
-                    <Link href="/blog-details" className="simple-btn">
-                      Read More
-                    </Link>
-                  </div>
+                  <h5>Indonesian Legal Wood</h5>
                 </div>
               </div>
             </div>
@@ -49,35 +30,16 @@ const Blogs5 = () => {
           <div className="col-lg-6">
             <div className="item md-mb50 wow fadeInUp" data-wow-delay=".5s">
               <div className="img">
-                <img src="/assets/img/blog/02.jpg" alt="" />
+                <img src="/assets/img/certif1.png" alt="" />
               </div>
               <div className="cont">
                 <div>
                   <div className="info">
-                    <Link href="/blog-details">
-                      <a className="date">
-                        <span>
-                          <i>06</i> August
-                        </span>
-                      </a>
-                    </Link>
-                    <span>/</span>
-                    <Link href="/blog-details">
-                      <a className="tag">
-                        <span>WordPress</span>
-                      </a>
-                    </Link>
+                    <a className="tag">
+                      <span>Certified</span>
+                    </a>
                   </div>
-                  <h5>
-                    <Link href="/blog-details">
-                      How to use solid color combine with simple furnitures.
-                    </Link>
-                  </h5>
-                  <div className="btn-more">
-                    <Link href="/blog-details" className="simple-btn">
-                      Read More
-                    </Link>
-                  </div>
+                  <h5>Sedex | Smeta</h5>
                 </div>
               </div>
             </div>

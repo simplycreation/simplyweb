@@ -6,6 +6,7 @@ import Services3 from "../../components/Services3";
 import Skills2 from "../../components/Skills2";
 import Testimonials1 from "../../components/Testimonials1";
 import Team2 from "../../components/Team2";
+import Certif from "../../components/Blogs5";
 
 const About = () => {
   React.useEffect(() => {
@@ -23,7 +24,8 @@ const About = () => {
       />
       <AboutUs4 />
       <Services3 bigTitle grid />
-      <Testimonials1 bigTitle />
+      {/* <Testimonials1 bigTitle /> */}
+      <Certif />
       <Team2 />
       <Skills2 />
     </MainLayout>

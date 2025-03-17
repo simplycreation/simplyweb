@@ -13,7 +13,7 @@ const AboutUs8 = () => {
             </div>
             <div className="box">
               <h2 className="fz-40 fw-600 ls1 mb-20">
-                25 years <br /> of Experience
+                11 years <br /> of Experience
               </h2>
               <p>
                 Sed ut perspiciatis unde omnis iste natus error sit voluptatem

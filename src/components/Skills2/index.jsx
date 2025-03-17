@@ -11,7 +11,7 @@ const Skills2 = () => {
           <div className="col-lg-6 valign">
             <div className="skills-box full-width">
               <div className="skill-item">
-                <h6>DELEVERY LEAD TIME</h6>
+                <h6>PRODUCTION LEAD TIME</h6>
                 <div className="skill-progress">
                   <div className="progres custom-font" data-value="100%"></div>
                 </div>

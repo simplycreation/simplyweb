@@ -13,7 +13,7 @@ const Work2 = () => {
       <WorkHeader
         center
         title={{
-          first: "Simply Creation Rattan Furniture",
+          first: "Rattan Furniture With",
           second: "Timeless Elegance, Natural Comfort",
         }}
         // title = "text",
