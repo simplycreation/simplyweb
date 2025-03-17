@@ -43,7 +43,7 @@ const WorkThreeColumn = () => {
               <span data-filter=".dinning">Dinning</span>
               <span data-filter=".occasional">Occasional</span>
               <span data-filter=".stool">Stool</span>
-              <span data-filter=".accesroies">Accesories</span>
+              <span data-filter=".accesories">Accesories</span>
               <span data-filter=".others">Others</span>
               <a
                 href="https://docs.google.com/forms/d/e/1FAIpQLSftp8nuNsLz5V3-utt7xYlq7bKDM7DILlmQtxcNZlQgi63XHw/viewform?usp=header"
@@ -479,6 +479,28 @@ const WorkThreeColumn = () => {
                 </div>
                 <div className="cont">
                   <h5>Slimit Grey Stool</h5> <span>Rattan</span>
+                  <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items accesories">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/acc.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Clothes Hanger</h5> <span>Rattan</span>
+                  <span>Modern</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 items accesories">
+              <div className="item">
+                <div className="img">
+                  <img src="/assets/img/works/col/acc2.png" alt="" />
+                </div>
+                <div className="cont">
+                  <h5>Towel Hanger</h5> <span>Rattan</span>
                   <span>Modern</span>
                 </div>
               </div>
