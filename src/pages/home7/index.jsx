@@ -34,10 +34,10 @@ const Home7 = () => {
 
       <IntroWithHorizontal />
       <AboutUs8 />
-      <Services7 />
+      {/* <Services7 /> */}
       <WorkWithoutFilter />
       <Video2 />
-      <Team3 />
+      {/* <Team3 /> */}
       <Testimonials1 bigTitle />
       {/* <Blogs3 smallTitle /> */}
     </MainLayout>
