@@ -19,8 +19,8 @@ const ContactInfo = () => {
               <span className="icon pe-7s-mail-open"></span>
               <div className="cont">
                 <h6 className="custom-font">Email Us</h6>
-                <p>sales@simplycreation.id</p>
-                <p>contact@simplycreation.id</p>
+                <p>marketing@simplycreation.id</p>
+                <p>info@simplycreation.id</p>
               </div>
             </div>
           </div>

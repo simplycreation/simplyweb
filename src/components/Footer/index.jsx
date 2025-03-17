@@ -27,8 +27,8 @@ const Footer = ({ classText }) => {
                   <span className="icon pe-7s-mail"></span>
                   <div className="cont">
                     <h6>Email Us</h6>
-                    <p>contact@simplycreation.id</p>
-                    <p>sales@simplycreation.id</p>
+                    <p>marketing@simplycreation.id</p>
+                    <p>info@simplycreation.id</p>
                   </div>
                 </li>
                 <li>
