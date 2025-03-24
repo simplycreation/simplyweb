@@ -35,22 +35,6 @@ const Video2 = () => {
           </span>
         </div>
       </a>
-      <div className="container">
-        <div className="stauts">
-          <div className="item">
-            <h4>
-              3<span>K</span> +
-            </h4>
-            <h6>Happy Clients</h6>
-          </div>
-          <div className="item">
-            <h4>
-              14<span>K</span> +
-            </h4>
-            <h6>Success Projects</h6>
-          </div>
-        </div>
-      </div>
     </section>
   );
 };

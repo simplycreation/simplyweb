@@ -16,8 +16,11 @@ const AboutUs8 = () => {
                 11 years <br /> of Experience
               </h2>
               <p>
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                accusantium doloremque laudantium, totam rem aperiam
+                With 11 years of experience, Simply Creation specializes in
+                crafting high-quality rattan furniture, including dining sets,
+                accessories, occasional pieces, sofas, and stools. Blending
+                traditional craftsmanship with modern design, we create durable
+                and elegant pieces that bring warmth and style to any space.
               </p>
             </div>
           </div>
@@ -28,19 +31,19 @@ const AboutUs8 = () => {
               <div className="item">
                 <div>
                   <h5>01</h5>
-                  <h6>Architecture</h6>
+                  <h6>Innovative Design</h6>
                 </div>
               </div>
               <div className="item">
                 <div>
                   <h5>02</h5>
-                  <h6>Interior Design</h6>
+                  <h6>Classic And Modern Design</h6>
                 </div>
               </div>
               <div className="item">
                 <div>
                   <h5>03</h5>
-                  <h6>3D Modeling</h6>
+                  <h6>Elegant And Unique Design</h6>
                 </div>
               </div>
             </div>

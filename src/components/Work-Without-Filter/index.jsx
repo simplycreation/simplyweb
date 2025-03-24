@@ -50,7 +50,7 @@ const WorkWithoutFilter = ({ vis }) => {
             <div className="col-md-6 items">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/col/work 2.png" alt="" />
+                  <img src="/assets/img/works/col/work2.png" alt="" />
                 </div>
                 <div className={`cont ${vis ? "vis" : ""}`}>
                   <span>Rattan</span>
@@ -75,7 +75,7 @@ const WorkWithoutFilter = ({ vis }) => {
                 </div>
               </div>
             </div>
-            <div className="col-md-6 items">
+            {/* <div className="col-md-6 items">
               <div className="item">
                 <div className="img">
                   <img src="/assets/img/works/col/work4.png" alt="" />
@@ -88,7 +88,7 @@ const WorkWithoutFilter = ({ vis }) => {
                   </h5>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
